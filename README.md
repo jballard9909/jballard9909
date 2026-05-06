@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Jacob Ballard
 
-<!--
-**jballard9909/jballard9909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build automation systems that eliminate manual work — connecting APIs, orchestrating multi-step workflows, and deploying solutions that run reliably without human intervention.
 
-Here are some ideas to get you started:
+My background is in education, where I spent years translating complex ideas into clear, actionable processes for people with no technical background. That skill transfers directly into automation work: understanding *why* a workflow breaks down, explaining the solution to a non-technical stakeholder, and building something that actually gets adopted.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Build
+
+- **API-driven automations** — REST API integration, OAuth 2.0 authentication, multi-service orchestration
+- **RPA workflows** — UiPath for legacy UI automation and document processing
+- **No-code / low-code pipelines** — n8n, Zapier, Make for rapid workflow deployment
+- **LLM integrations** — embedding AI into business workflows for document generation and intelligent triage
+
+---
+
+## Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| RPA | UiPath |
+| Workflow Automation | n8n, Zapier, Make |
+| Scripting | Google Apps Script, JavaScript |
+| APIs | Google Classroom REST API, Gmail API, UiPath Orchestrator |
+| Auth | OAuth 2.0 |
+| AI / LLM | LLM API integration, prompt engineering |
+
+---
+
+## Featured Projects
+
+### Automated Student Submission Monitor
+> Google Apps Script • Google Classroom API • Gmail API • OAuth 2.0
+
+Monitors 7 Google Classroom courses daily, detects assignment submissions missing required file attachments, and automatically notifies students and parents the same afternoon — with deduplication logic to prevent repeat emails.
+
+[View Project →](https://github.com/jballard9909/student-submission-monitor)
+
+---
+
+*More projects coming soon — UiPath IEP document processor, n8n workflow automations, and multi-tool integrations.*
+
+---
+
+## A Note on My Background
+
+Before moving into automation, I spent several years as a music teacher. That experience sharpened skills that matter just as much as technical ability: breaking down complex systems into understandable steps, identifying where a process is failing, and communicating solutions clearly to people who aren't engineers. I bring that perspective into every automation project I build.
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacob%20Ballard-blue?logo=linkedin)](https://www.linkedin.com/in/jacob-ballard-)
