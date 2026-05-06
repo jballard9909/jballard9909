@@ -19,12 +19,12 @@ My background is in education, where I spent years translating complex ideas int
 
 | Category | Tools |
 |---|---|
-| RPA | UiPath |
 | Workflow Automation | n8n, Zapier, Make |
-| Scripting | Google Apps Script, JavaScript |
+| RPA | UiPath |
+| Scripting | Python, Google Apps Script, JavaScript |
 | APIs | Google Classroom REST API, Gmail API, UiPath Orchestrator |
 | Auth | OAuth 2.0 |
-| AI / LLM | LLM API integration, prompt engineering |
+| AI / LLM | Claude, ChatGPT, Gemini, LLM API integration, Prompt Engineering |
 
 ---
 
@@ -35,7 +35,7 @@ My background is in education, where I spent years translating complex ideas int
 
 Monitors 7 Google Classroom courses daily, detects assignment submissions missing required file attachments, and automatically notifies students and parents the same afternoon — with deduplication logic to prevent repeat emails.
 
-[View Project →](https://github.com/jballard9909/student-submission-monitor)
+[View Project →](https://github.com/jballard9909/empty-student-submission-alert)
 
 ---
 
@@ -51,4 +51,4 @@ Before moving into automation, I spent several years as a music teacher. That ex
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacob%20Ballard-blue?logo=linkedin)](https://www.linkedin.com/in/jacob-ballard-)
+[LinkedIn](https://www.linkedin.com/in/jacob-ballard-)
